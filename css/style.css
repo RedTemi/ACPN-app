@@ -1,0 +1,121 @@
+.body1{
+  max-width: 100vw;
+  margin: 0 auto;
+}
+#ads{
+  position: fixed;
+  bottom: 0;
+}
+#obdy{
+  background-color: lightgrey;
+}
+.top {
+    height: 300px;
+    background: -webkit-linear-gradient(-70deg, #d69dcf6b 100%, rgba(0, 0, 0, 0) 30%);
+    background-image:url(../img/Abuja-city.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 50% 20%;
+  }
+  .carousel-item img{
+    height: 20vh;
+    width: auto;
+    padding: 0 auto;
+
+  }
+ #containr h1{
+   position: relative;
+    margin: 0 auto;
+    font: 44px "Arial";
+    align-self: center;
+    padding: 0 50%;
+    bottom: calc(-50% + 50px);
+  }
+  
+  .top h1 {
+   font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif;
+    color: white;
+    font-weight: 700;
+  }
+
+ .axe {
+      font-family:-apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif;
+      padding: 2vh 3vw;
+      font-weight: 700;
+  }
+  #colog{
+    margin: 10px 10% 0px;
+  }
+  
+  .foxy p:nth-child(2){
+    padding-right: 5px;
+    padding-bottom: 3px;
+    font-style: italic;
+    font-weight: 500;
+    text-align: right;
+  }
+  .foxy{background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    border-left: solid rgb(79, 233, 161) 10px;
+    box-shadow: rgb(160, 159, 159) 0px 4px 4px 0px;
+    background-color: white;
+  }
+ .bond h5{
+    color:rgb(255, 255, 255);
+    background-color: rgba(116, 99, 117, 0.721);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    box-shadow: rgb(172, 172, 172) 0 3px 2px 1px;
+    padding:2vh 2vw ;
+    
+ }
+ h1 span{
+   display: list-item;
+   list-style: none;
+   text-decoration: underline gold;
+ }
+ .bond p{
+     background-color: #1b7a71;
+     color: white;
+     padding: 2vw;
+     font-weight: 600;
+     box-shadow: rgb(172, 172, 172) 0 3px 2px 1px;
+ }
+#apple{
+  margin: 100px 5%;
+  box-shadow: lightslategray 8px inset;
+}
+.links {
+  text-align: center;
+  color: white;
+  margin: 2vh auto 20px;
+  padding: 50px 50px;
+  padding: 10px;
+  font-size: medium;
+  border-radius: 25px;
+  font-weight: 800;
+}
+
+#fishlink{
+  margin-top: 10px;
+}
+#days h5{
+  color: lightgreen;
+  font-weight: 700;
+}
+#days p{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 300;
+}
+.imgage{
+  margin: auto;
+}
+h1 span:nth-child(1){
+  text-align: right;
+}
+h1 span:nth-child(2){
+  text-align: right;
+}
